@@ -88,6 +88,7 @@ header .site-menu-button {
     font-size: 1.1rem;
     padding: 0 1rem;
     width: min(100%, 1200px);
+    margin: 0 auto;
     display: flex;
     justify-content: end;
     gap: 5px;
